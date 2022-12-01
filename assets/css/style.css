@@ -9,4 +9,17 @@
 body {
     font-family: Nerko-one, sans-serif;
     font-weight: 400;
+    color:darkslategray;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Mali, sans-serif;
+    letter-spacing: 4px;
+    }
+
+#logo {
+    float:left;
+    font-size: 300%;
 }
